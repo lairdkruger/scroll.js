@@ -6,7 +6,7 @@ scrollScrub.js provides helper functions for implementing scroll based controlle
 
 ## Basic Use
 
-scrollScrub.js relies on luxy.js for smooth, momemtum based scrolling and hence must be included in the html after luxy.js but before master.js.
+scrollScrub.js relies on luxy.js for smooth, momemtum based scrolling and hence must be included in the html after luxy.js but before master.js. For implementations disregarding luxy.js, try replacing luxy.wapperOffset with window.scrollY.
 
 ## Functions
 
